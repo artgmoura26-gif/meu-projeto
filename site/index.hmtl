@@ -1,0 +1,4 @@
+<h1>ERROR:  column text does not exist</h1>
+<h1>LINE 1: SELECT text FROM mensagens LIMIT 1;</h1>
+<h1>^</h1>
+<h1>HINT:  Perhaps you meant to reference the column mensagens.texto.</h1>
